@@ -1,5 +1,5 @@
 # PRISMO-trading-research-and-execution-system
-Fully automated trading platform. Backtesting module created for efficient model testing and creation, execution system to trade the system live.
+Fully automated trading platform. Backtesting module created for efficient model testing and creation, execution system to trade the system live. Feel free to contact me with any questions !
 
 
 # Live Execution System 
@@ -27,4 +27,11 @@ The optimizer is the 'efficient' code, that finds optimum parameters for the str
 
 ![Alt text](results.jpg?raw=true "Title")
 
+As so far, the strategies tested are:
+  - LSTM forecasting spread of triplets
+  - Kalman filter pairs 
+  - HMM regeime detection models
+  - Double EMA smoothing pairs
+ 
+ 
 
