@@ -4,7 +4,15 @@ Fully automated trading platform. Backtesting module created for efficient model
 
 # Live Execution System 
 Built oupon ib_insync (wrapper for interactive brokers API), allows multiple independent strategies to be run within a single TWS session.
-GUI developed for strategy tracking and visualisation and test case verification.
+
+
+
+![Alt text](executionPlatform.gif?raw=true "Title")
+
+
+Note that the above is an example of the strategy running at the end of day, on a paper trading account with delayed market data. 
+
+A GUI developed for strategy tracking and visualisation and test case verification.
 
 ![Alt text](execution.gif?raw=true "Title")
 
