@@ -3,7 +3,7 @@ Fully automated trading platform. Backtesting module created for efficient model
 
 
 # Live Execution System 
-Built oupon ib_insync (wrapper for interactive brokers API), allows multiple independent strategies to be run within a single TWS session.
+Built upon ib_insync (wrapper for interactive brokers API), allows multiple independent strategies to be run within a single TWS session.
 
 
 
